@@ -1,3 +1,4 @@
+<img width="1917" height="872" alt="mkm" src="https://github.com/user-attachments/assets/7df9c9e0-eef5-4fb6-9e3d-6050d2a1dd7f" />
 # 📄 AI Resume Analyzer
 
 An AI-powered web application that compares a resume against a job description, calculates an ATS-style match score, identifies missing skills/keywords, and provides actionable recommendations to improve ATS screening results — all through a clean, interactive Streamlit dashboard.
