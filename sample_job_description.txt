@@ -1,0 +1,20 @@
+Software Engineer - Backend
+
+We are looking for a Software Engineer with strong experience in Python and building
+scalable REST APIs. The ideal candidate has hands-on experience with Flask or Django,
+SQL databases, Docker, and Git-based version control. Familiarity with Agile development
+practices, CI/CD pipelines, and cloud platforms such as AWS is a strong plus.
+
+Responsibilities:
+- Design and develop REST APIs using Python and Flask
+- Write efficient SQL queries and optimize database performance
+- Collaborate with cross-functional teams in an Agile environment
+- Containerize applications using Docker and deploy via CI/CD pipelines
+- Participate in code reviews and maintain high code quality
+
+Requirements:
+- 3+ years of experience in backend software development
+- Strong knowledge of Python, SQL, and REST API design
+- Experience with Docker, Git, and cloud platforms (AWS preferred)
+- Excellent communication and problem-solving skills
+- Bachelor's degree in Computer Science or related field
